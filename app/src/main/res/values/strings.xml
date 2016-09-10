@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Treasure Hunt - McDonnell</string>
+    <string name="create_new_hunt">Create new Hunt</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="username_field">Username</string>
+    <string name="create_hunt_button">Create Hunt</string>
+    <string name="location_name_field">Name</string>
+    <string name="location_description_field">Description</string>
+    <string name="location_latitude_field">Latitude</string>
+    <string name="location_longitude_field">Longitude</string>
+    <string name="location_question_field">Question</string>
+    <string name="location_answer_field">Answer</string>
+    <string name="location_clue_field">Clue</string>
+
+    <string name="end_location_field">End Location</string>
+    <string name="add_hunt_location">Add Location</string>
+    <string name="add_hunt_start_location">Add Start Location</string>
+    <string name="add_hunt_end_location">Add as End Location</string>
+    <string name="login_button">Login</string>
+    <string name="start_hunt_button">Start Hunt</string>
+    <string name="continue_hunt_button">Continue Hunt</string>
+    <string name="view_locations_button">View Hunt Locations</string>
+    <string name="view_reached_locations_button">View Reached Locations</string>
+    <string name="add_reached_location_button">Add Reached Location</string>
+
+    <string name="clue">Clue</string>
+
+    <string name="base_url">http://sots.brookes.ac.uk/~p0073862/services/hunt/</string>
+    <string name="add_location_uri">addlocation</string>
+    <string name="reach_location_uri">reachlocation</string>
+    <string name="create_hunt_uri">createhunt</string>
+    <string name="locations_uri">locations/</string>
+    <string name="hunts_uri">hunts</string>
+    <string name="reached_uri">reached/</string>
+    <string name="players_uri">players/</string>
+    <string name="start_hunt_uri">starthunt</string>
+
+    <string name="answer_correct">Your answer was correct, the clue for the next location is: </string>
+    <string name="answer_incorrect">Incorrect answer</string>
+    <string name="completed_hunt">"Congratulations you have completed this hunt!"</string>
+    <string name="no_locations_not_creator">This hunt has no locations, please contact the Hunt Creator</string>
+    <string name="no_locations_creator">This Hunt has no locations</string>
+    <string name="add_locations">Add Locations</string>
+
+    <string name="hunt_creator">You are the creator of this Hunt.</string>
+    <string name="hunt_completed">You have completed this Hunt."</string>
+    <string name="hunt_started">"You have started this Hunt"</string>
+    <string name="hunt_registered">"You have started the Hunt, but have not yet reached the start location"</string>
+    <string name="hunt_not_started">"You have not started this Hunt"</string>
+
+    <string name="start_hunt">Start Hunt</string>
+    <string name="continue_hunt">Continue Hunt</string>"
+    <string name="view_reached_locations">View Reached Locations</string>
+    <string name="view_hunt_locations">View Hunt Locations</string>
+
+    <string name="ok">OK</string>
+
+    <string name="hunt_name">Hunt Name: </string>
+
+    <string name="not_reached_all">"You have not yet reached any locations on this hunt"</string>
+
+    <string name="hunt_exists_error">Hunt already exists</string>
+
+</resources>

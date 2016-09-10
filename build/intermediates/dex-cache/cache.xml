@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-fca8b071257f20c2a1f3bd31c13e875d26cb40d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-ab33fa0c5d1691fc90d74329cef37f36b7772d0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-b9063d5e06b8c0db5a5344de72fb458b774d3c36.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-b39fcf6918195965300f98bdecca90cb00220eef.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-6054174657167f5a1384b4271ee7c91902530dcf.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-1e88aae1368c4dcb232e7218f6b7cd8127f46004.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-ba29e88c14990d6b6fd8e0289ca22d6e807dd7b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-a00ec86ebd1bc4c15f37ef3ca1eeab2ea8274ee3.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-7032745e5bdbc0021bf59dfa5b47571fba41470e.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-e7a23187d49a0d04b71f7c9b05a2c149f1c40c24.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-debf08d33db33b891ad5e29080f58b6142df4b86.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-305caa8a3254466d2020f65d98ff8d733889a8c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-8c7bd2f5eea9b86ffb17708bde99a7a82f5513b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-845a8d66171bd507baa68d0f911341471ec3b5fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-5bd30abcf9a3de48554163949b5f94d7eee37bd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-1460196a51c48222bbb5c84a57b5e41b4e7e3702.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-88be30edcafea64c83afd12ee06e9940aecfbabd.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-21f04c943d57eb5b234a573e148dcd8e0b6790ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-2dea7f52888146b5849661a47e98a0af1649ab54.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-c11de2f4fd3d2b7ad7c2433dd3fc407b311c1184.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-1e25f3298d4da783f07001f770173953d1c8c971.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-5603d874c1b878fd7350b66d6cd65fc23d64f194.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-97c745878f1c4d614714a9598e5b46f291397b72.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-9a270cc3763df2a5bfd416c00ebddd68e92a40e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-b0826d9de0cdc8ec4712c8b5753829fd64e54b55.jar" />
+    </item>
+    <item
+        jar="D:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-0f9b02dd483020e45749c1ce205960d41bb56da3.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-8d7ca2ed9be00602540f9126239ad636f0715fdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-33675561ee129334d417f011c593c36996b36375.jar" />
+    </item>
+    <item
+        jar="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\George\Google Drive\Final Year\Advanced Mobile Software\TreasureHunt\app\build\intermediates\pre-dexed\release\classes-eedc212da078398559777a7036937a95f9538893.jar" />
+    </item>
+
+</items>

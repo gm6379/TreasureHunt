@@ -1,0 +1,138 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="georgemcdonnell.com.treasurehunt.hunts.AddHuntLocationFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/add_hunt_location"
+        android:id="@+id/add_hunt_location"
+        android:layout_gravity="left|top" />
+
+    <EditText
+        android:hint="@string/location_name_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_name_field"
+        android:layout_below="@id/add_hunt_location"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:hint="@string/location_description_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_description_field"
+        android:layout_below="@id/location_name_field"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:hint="@string/location_latitude_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_latitude_field"
+        android:layout_below="@id/location_description_field"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:hint="@string/location_longitude_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_longitude_field"
+        android:layout_below="@id/location_latitude_field"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:hint="@string/location_question_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_question_field"
+        android:layout_below="@+id/location_longitude_field"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:hint="@string/location_answer_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_answer_field"
+        android:layout_below="@+id/location_question_field"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:hint="@string/location_clue_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_clue_field"
+        android:layout_below="@+id/location_answer_field"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_hunt_location"
+        android:id="@+id/add_hunt_location_button"
+        android:layout_below="@+id/location_clue_field"
+        android:layout_alignLeft="@+id/location_clue_field"
+        android:layout_alignStart="@+id/location_clue_field"
+        android:layout_alignRight="@+id/location_clue_field"
+        android:layout_alignEnd="@+id/location_clue_field" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_hunt_end_location"
+        android:id="@+id/add_hunt_end_location_button"
+        android:layout_below="@+id/add_hunt_location_button"
+        android:layout_alignLeft="@+id/location_clue_field"
+        android:layout_alignStart="@+id/location_clue_field"
+        android:layout_alignRight="@+id/location_clue_field"
+        android:layout_alignEnd="@+id/location_clue_field"
+        android:visibility="invisible" />
+
+
+</RelativeLayout>
